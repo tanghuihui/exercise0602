@@ -40,7 +40,7 @@ img{ padding:0; margin:0;}
 .ly-menu-up,.ly-menu-do{display: inline-block;position: relative;left: 6px;top: -2px;+*top: -6px; width: 9px;height: 5px; }
 .ly-menu-do{ background-position: -292px -54px;}
 .ly-menu-up{background-position: -309px -54px;}
-.ly-menu{ background: #da4a3d;width: 100%;min-width: 1180px;height: 50px;line-height: 50px;}
+.ly-menu{ background: #999999;width: 100%;min-width: 1180px;height: 50px;line-height: 50px;}
 .ly-menu-lk,.ly-menu-cd{ color: #fff;font-size: 16px;padding: 0 34px;background: #da4a3d;margin: 0 2px;display: block;}
 .ly-menu-cd{ background: #ba3b2f;font-size: 14px;}
 .ly-menu-cd:hover{ background: #da4a3d;color: #fff;}
