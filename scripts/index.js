@@ -1,5 +1,5 @@
 ﻿$(function() {
     $("a").click(function() {
-        return false;
+        //return false;
     });
 });
